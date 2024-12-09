@@ -31,7 +31,7 @@ bibliography:
 ## Music concepts {.unnumbered}
 
 | Term | Description |
-|----------------|--------------------------------------------------------|
+|------------------|------------------------------------------------------|
 | `audio recording` | fixation of sounds [@iso_isrc_2019] |
 | `work` | distinct, abstract creation of the mind whose existence is revealed through one or more expressions (e.g. a performance) or manifestations (e.g. an object) [@iso_iswc_2022] |
 | `musical work` | composed of a combination of sounds, with or without accompanying text [@iso_iswc_2022] |
@@ -48,7 +48,7 @@ bibliography:
 ## Titles
 
 | Term | Description |
-|----------------|--------------------------------------------------------|
+|------------------|------------------------------------------------------|
 |  |  |
 |  |  |
 |  |  |
@@ -63,7 +63,7 @@ bibliography:
 ## Roles
 
 | Term | Description |
-|----------------|--------------------------------------------------------|
+|------------------|------------------------------------------------------|
 | `arranger` | The author, or one of the authors, of an adapted text of a musical work. [@iso_iswc_2022] |
 | `author` | The creator, or one of the creators, of the text of a musical work. [@iso_iswc_2022] Entitled to authors' right or copyright. |
 | `composer` | The creator, or one of the creators, of the musical elements of a musical work. [@iso_iswc_2022] Entitled to authors' right or copyright. |
@@ -75,10 +75,10 @@ bibliography:
 
 : Music definitions: names of persons and groups {tbl-colwidths="\[25,75\]"}
 
-## Artis names
+## Artist names
 
 | Term | Description |
-|----------------|--------------------------------------------------------|
+|------------------|------------------------------------------------------|
 |  |  |
 |  |  |
 |  |  |
@@ -91,25 +91,25 @@ bibliography:
 
 ## Identifiers
 
-| Term      | Description |
-|-----------|-------------|
-| `ISNI`    |             |
-| `ISRC`    |             |
-| `ISMM`    |             |
-| `ISWC`    |             |
-| `VIAF ID` |             |
-|           |             |
-|           |             |
+| Term | Description |
+|----------------|--------------------------------------------------------|
+| `ISNI` | The ISNI system uniquely identifies public identities across multiple fields of creative activity and provides a tool for disambiguating public identities that might otherwise be confused. |
+| `ISRC` | The International Standard Recording Code (ISRC) is a standard identifying code that can be used to identify sound recordings and music video recordings so that each such recording can be referred to uniquely and unambiguously. |
+| `ISMM` | The International standard music number (ISMN) was developed by, and for, the music publishing sector as a separate system to complement the International standard book number (ISBN). The existence of the ISMN as a separate identifier system makes it possible to identify printed and notated music as a distinct category of publication within the global supply chain and to develop trade directories and similar services for the specialized market for music publications. |
+| `ISWC` | The purpose in creating an ISWC for musical works is to enable more efficient administration of rights to those works on a worldwide basis. The ISWC provides an efficient means of identifying musical works in computer databases and related documentation and for the exchange of information between rights societies, publishers, record companies and other interested parties on an international level. |
+| `VIAF ID` | The VIAF (Virtual International Authority File) combines multiple name authority files into a single OCLC-hosted name authority service. |
+|  |  |
+|  |  |
 
 : Music definitions: identifiers {tbl-colwidths="\[25,75\]"}
 
 ## Characteristics
 
-| Term       | Description |
-|------------|-------------|
-| `duration` |             |
-|            |             |
-|            |             |
+| Term | Description |
+|------------------------------------|------------------------------------|
+| `duration` | The elapsed playing time between the first and last recorded modulations of the recording. [@iso_isrc_2019] |
+|  |  |
+|  |  |
 
 : Music definitions: identifiers {tbl-colwidths="\[25,75\]"}
 
