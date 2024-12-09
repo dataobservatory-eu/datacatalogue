@@ -6,15 +6,17 @@
 
 ## Contents
 <!-- … describe here the source files (qmd) of the work -->
+-   `aloaded.qmd`: Description of the columns in the ALOADED data set.
 
 
 ## Bibliography
 <!-- … describe here the bib files used -->
--  `bib/antal.bib`: Background documents.
+-   `bib/antal.bib`: Background documents.
 -   `bib/datamodels.bib`: Key data models.
 -   `bib/DDEX.bib`: DDEX standards and related publications. [Digital Muisc Observatory/Metadata/DDEX](https://www.zotero.org/groups/4559070/digital_music_observatory/collections/VTJS6PX8)
 -   `bib/ISOdata.bib`: ISO music (meta)data standards. 
--   `bib/OpenMusE.bib`: For referencing the Open Music Europe project and its key documents. 
+-   `bib/OpenMusE.bib`: For referencing the Open Music Europe project and its key documents.
+-   `bib/aloaded.bib`: References for the description of the columns in the ALOADED data set.
 
 ## Images
 <!-- … describe here the image files used; final images should be published on 
